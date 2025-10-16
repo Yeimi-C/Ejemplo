@@ -21,7 +21,7 @@ class ProductOut(BaseModel):
     precio: float
     en_stock: bool
 
-# "Base de datos" simulada
+# "Base de datos" simuladaaa
 PRODUCT_DB: List[Product] = []
 
 # Crear producto
